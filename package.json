@@ -4,7 +4,8 @@
   "description": "a server to generate the wordle word",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "npm install",
+    "serve": "node dist/bname-of-your-file.js"
   },
   "author": "",
   "license": "ISC",
